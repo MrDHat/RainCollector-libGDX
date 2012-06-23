@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar"/>
+	<classpathentry exported="true" kind="lib" path="/drop/libs/gdx.jar" sourcepath="/drop/libs/gdx-sources.jar"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/drop"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
